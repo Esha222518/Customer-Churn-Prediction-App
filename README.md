@@ -32,10 +32,20 @@ churn_project/
 - **Data Cleaning:** Handled missing values, dropped unnecessary columns
 - **Encoding:** Used `LabelEncoder` for categorical features
 - **Balancing:** Used `SMOTE` to handle class imbalance
-- **Model:** Trained a `DecisionTreeClassifier`
+- **Model:** Trained a 'XGBoost (or Decision Tree)`
 - **Evaluation:** Achieved ~0.82 F1 Score on the test set
 
----
+- 🛠️ Technologies Used
+Python
+
+Pandas, scikit-learn, imbalanced-learn
+
+Streamlit (for building the interactive app)
+
+Joblib (for model persistence)
+
+📦 Dataset Used
+Telco Customer Churn Dataset
 
 ## ⚙️ How to Run the App
 
