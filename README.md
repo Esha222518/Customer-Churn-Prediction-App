@@ -49,14 +49,14 @@ Telco Customer Churn Dataset
 
 ## ⚙️ How to Run the App
 
-### ✅ Step 1: Clone the Repository
+###  Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/churn-predictor.git
 cd churn-predictor
- Step 2: Install Dependencies
+###  Step 2: Install Dependencies
 pip install -r requirements.txt
-Step 3: Run the App
+### Step 3: Run the App
 streamlit run app.py
 Then open http://localhost:8501 in your browser.
 
