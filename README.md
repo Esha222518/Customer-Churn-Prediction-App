@@ -2,7 +2,7 @@
 
 This project is a **machine learning-powered web application** built with **Streamlit** that predicts whether a customer is likely to churn (leave a telecom service). The model is trained on the popular [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-🔍 Project Objective
+🔍 Project Objective :- 
 To develop an interactive tool that predicts customer churn using the Telco Customer Churn dataset. The goal is to help businesses proactively identify customers who are likely to leave the service and take retention measures.
 
 ## 🚀 Features
